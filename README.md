@@ -10,3 +10,6 @@ This repository is for unlocking GitHub badges!
 
 ## Status
 Testing badge unlocking process!
+
+## Update
+Quick update for YOLO badge! 🎲
