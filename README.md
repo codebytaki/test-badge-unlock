@@ -13,3 +13,7 @@ Testing badge unlocking process!
 
 ## Update
 Quick update for YOLO badge! 🎲
+
+
+## Pair Extraordinaire Badge 👥
+This commit is co-authored to unlock the Pair Extraordinaire badge!
